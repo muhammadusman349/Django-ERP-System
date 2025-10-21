@@ -1,2 +1,2 @@
-# Django-EPR-System
+# Django-ERP-System
 Django EPR System 
